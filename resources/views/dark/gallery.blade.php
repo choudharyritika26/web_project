@@ -164,11 +164,14 @@
 
                         <div class="col-lg-3 col-md-6 items web info-overlay height-1 mb-30">
                             <div class="item-img o-hidden">
-                                <a href="project-details1.html" class="imago wow">
+                                <a href="" class="imago wow">
                                     <div class="inner wow">
                                         <img src="gogosprockets/assets/imgs/gallery/img7.jpg" alt="image">
                                     </div>
                                 </a>
+                                <div class="info">
+                                    <h6>Event Lighting</h6>
+                                </div>
                                 
                             </div>
                         </div>
@@ -180,6 +183,9 @@
                                         <img src="gogosprockets/assets/imgs/gallery/img4.jpg" alt="image">
                                     </div>
                                 </a>
+                                <div class="info">
+                                    <h6>Event Lighting</h6>
+                                </div>
                                 
                             </div>
                         </div>
